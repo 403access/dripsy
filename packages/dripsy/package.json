@@ -70,7 +70,7 @@
     ]
   },
   "devDependencies": {
-    "typescript": "5.2.2"
+    "typescript": "5.3.3"
   },
   "dependencies": {
     "@expo/html-elements": "^0.2.0",
